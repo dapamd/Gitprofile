@@ -13,8 +13,8 @@ const config = {
   social: {
     instagram : 'dapamd.my',
     website : 'https://dapamd.my.id',
-    phone : '+62895606423692',
-    email : 'dapamd@gmail.com',
+    phone : '+62 87855018779',
+    email : 'ahmad.khoiroon@gmail.com',
   },
   resume: {
     fileUrl:
