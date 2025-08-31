@@ -20,7 +20,7 @@ const config = {
     fileUrl:
       'https://dapamd.my.id', // Empty fileUrl will hide the `Download Resume` button.
   },
-  Test: [
+  skills: [
     'Copas',
     'Recode',
     'Reupload',
