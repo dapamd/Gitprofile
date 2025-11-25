@@ -11,14 +11,14 @@ const config = {
     },
   },
   social: {
-    instagram : 'dapamd.my',
-    website : 'https://dapamd.my.id',
-    phone : '+62 87855018779',
+    instagram : 'akdpaa',
+    website : 'https://akdpa.my.id',
+    phone : '+62 85977370778',
     email : 'ahmad.khoiroon@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://dapamd.my.id', // Empty fileUrl will hide the `Download Resume` button.
+      'https://akdpa.my.id', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Copas',
