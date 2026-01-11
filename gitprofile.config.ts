@@ -96,7 +96,7 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'PT. Supra Primatama Nusantara,
+      company: 'PT. Supra Primatama Nusantara',
       position: 'Network Operation Engineer',
       from: 'October 2025',
       to: 'Present',
