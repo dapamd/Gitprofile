@@ -13,7 +13,7 @@ const CONFIG = {
   projects: {
     github: {
       display: false, // Display GitHub projects?
-      header: 'Github Projects',
+      header: '',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -32,7 +32,7 @@ const CONFIG = {
       header: '',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
+     /*   {
           title: '',
           description:
             '',
@@ -47,7 +47,7 @@ const CONFIG = {
           imageUrl:
             '',
           link: '',
-        },
+        }, */
       ],
     },
   },
@@ -101,13 +101,6 @@ const CONFIG = {
       from: 'October 2025',
       to: 'Present',
       companyLink: 'https://biznetnetworks.com',
-    },
-    {
-      company: '',
-      position: '',
-      from: ' ',
-      to: '',
-      companyLink: '',
     },
   ],
   certifications: [
