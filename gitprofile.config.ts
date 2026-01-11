@@ -79,20 +79,14 @@ const CONFIG = {
       'https://cdn.akdpa.my.id/akdpa/CV_AHMAD_KHOIROON_DAFFA.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
+    'Mikrotik',
+    'Cisco',
+    'FTTH',
+    'Fiber Optic',
+    'Networking',
+    'Linux Server',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'VPN',
   ],
   experiences: [
     {
