@@ -71,7 +71,7 @@ const CONFIG = {
     discord: '',
     telegram: '',
     website: 'www.akdpa.my.id',
-    phone: '',
+    phone: '+62 85977370778',
     email: 'ahmad.khoiroon@gmail.com',
   },
   resume: {
@@ -85,14 +85,12 @@ const CONFIG = {
     'Fiber Optic',
     'Networking',
     'Linux Server',
-    'Docker',
-    'VPN',
   ],
   experiences: [
     {
       company: 'PT. Supra Primatama Nusantara',
       position: 'Network Operation Engineer',
-      from: 'October 2025',
+      from: 'Oct 2025',
       to: 'Present',
       companyLink: 'https://biznetnetworks.com',
     },
