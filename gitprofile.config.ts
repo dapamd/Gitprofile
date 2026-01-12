@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ahmad Khoiroon Daffa', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of akdpa', description: '', imageURL: '' },
   social: {
     linkedin: '',
     x: '',
@@ -76,7 +76,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://cdn.akdpa.my.id/akdpa/CV_AHMAD_KHOIROON_DAFFA.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://cdn.akdpa.my.id/public/docs/CV_AHMAD_KHOIROON_DAFFA.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Mikrotik',
@@ -100,7 +100,7 @@ const CONFIG = {
       name: 'CTF NOP',
       body: 'Certification for Network Operation',
       year: 'Dec 2025',
-      link: 'https://cdn.akdpa.my.id/akdpa/CTF_AHMAD_KHOIROON_DAFFA.pdf',
+      link: 'https://cdn.akdpa.my.id/public/docs/CTF_AHMAD_KHOIROON_DAFFA.pdf',
     },
   ],
   educations: [
